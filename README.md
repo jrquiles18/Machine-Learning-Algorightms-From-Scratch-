@@ -2,14 +2,14 @@
 
 ## Python coding of basic ML algorithms
 
-###Linear Regression(Gradient Descent)
+### Linear Regression(Gradient Descent)
 - Single Feature
 - Multiple Features
 - Normal Equation Method
 - Regularization(Ridge)
 
 
-###Logistic Regression
+### Logistic Regression
 - Multiple Feature(Binary Output)
 - Mutilple Features(Binary Output) with regularization(Ridge)
 - Multiple Features(Multi-Class) One vs. All
