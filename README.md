@@ -2,6 +2,8 @@
 
 ## Python Coding of Fundamental ML Algorithms
 
+### K Nearest Neighbors
+
 ### Linear Regression(Gradient Descent)
 - Single Feature
 - Multiple Features
