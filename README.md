@@ -15,3 +15,5 @@
 - Multiple Feature(Binary Output)
 - Mutilple Features(Binary Output) with regularization(Ridge)
 - Multiple Features(Multi-Class) One vs. All
+
+### Neural Networks
